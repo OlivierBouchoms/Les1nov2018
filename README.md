@@ -1,2 +1,3 @@
-# Les1nov2018
-Broncode voor de les van donderdag 1 november
+# Broncode voor de les van donderdag 1 november
+
+Kopieer deze code in je Codiva project en probeer dingen uit!
